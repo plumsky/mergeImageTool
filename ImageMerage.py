@@ -1,3 +1,10 @@
+'''
+The multiple images of arbitrary size, merged into a N power of 2 the size of the picture. 
+The game industry auxiliary tool.
+
+Plumsky (x-wolf@163.com)
+License: this code is in the public domain
+'''
 from PIL import Image
 import math
 
