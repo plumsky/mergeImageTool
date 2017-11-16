@@ -1,3 +1,5 @@
 language: python
-rvm:
- - 3.5+
+python:
+ - "pypy3"
+script:
+ - pytest
